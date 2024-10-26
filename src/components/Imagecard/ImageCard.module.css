@@ -1,0 +1,14 @@
+.cardWrapper {
+  padding: 0;
+  width: 300px;
+  height: 200px;
+}
+
+.cardImage {
+  object-fit: cover;
+  object-position: center;
+  height: 200px;
+  width: 300px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}

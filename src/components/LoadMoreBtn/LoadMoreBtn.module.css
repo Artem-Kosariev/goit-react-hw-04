@@ -1,0 +1,4 @@
+.moreBtn:hover,
+.moreBtn:focus {
+  color: blue;
+}
