@@ -1,5 +1,5 @@
 import axios from "axios";
-import {Photo, ApiResponse } from '../types'
+import {Image, ApiResponse } from '../types'
 
 const ACCESS_KEY = "Z_Up2mg88R0ZPYkYxp_-rtaj90toor0Vz0Ss24xcspk";
 

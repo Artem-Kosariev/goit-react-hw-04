@@ -3,7 +3,7 @@ import { Toaster } from 'react-hot-toast';
 import Modal from 'react-modal';
 
 import './App.css';
-import fetchPhotos, { PhotoData } from '../../api/Fetchphoto-api';
+import fetchPhotos from '../../api/Fetchphoto-api';
 
 import SearchBar from '../SearchBar/SearchBar';
 import ImageGallery from '../ImageGallery/ImageGallery';
